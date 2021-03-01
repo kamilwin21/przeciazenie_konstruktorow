@@ -33,6 +33,9 @@ public class Przeciazenie_konstruktorow {
     }
     
 }
+class test{
+ private int nazwa
+}
 
 class pudelko{
     double szerokosc;
